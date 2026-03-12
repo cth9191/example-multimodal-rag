@@ -1,0 +1,7 @@
+google-genai
+supabase
+python-dotenv
+gradio
+opencv-python
+Pillow
+numpy
